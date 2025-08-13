@@ -108,7 +108,6 @@ export const styles = StyleSheet.create({
     justifyContent: "space-between",
   },
   balanceStatItem: {
-    flex: 1,
     alignItems: "center",
   },
   statDivider: {
